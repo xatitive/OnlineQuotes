@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "03A76D06-BB94-4EA0-A01F-02140DE7B147",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "OnlineQuotesTest",
+        "name" : "OnlineQuotesTest"
+      }
+    }
+  ],
+  "version" : 1
+}
